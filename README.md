@@ -55,5 +55,5 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: (add your link)
-* Email: (add your email)
+* LinkedIn: 
+* Email: gopal.tyagi.work@gmail.com
