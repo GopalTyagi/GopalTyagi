@@ -1,4 +1,4 @@
-# Hi, I'm Gopal Tyagi 👋
+# Hi, I'm Gopal Tyagi 
 
 🚀 Java Backend / Full Stack Developer
 💡 Focused on building scalable APIs, cloud automation systems, and full stack applications
